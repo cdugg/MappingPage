@@ -1,0 +1,33 @@
+html, body, #map{
+	position: absolute;
+	height: 98.8%;
+	width: 99.4%;
+}
+
+#closePic{
+	position: absolute;
+	cursor: pointer;
+	height: 10%;
+	width: 10%;
+	top: 0;
+	text-align: center;
+	background-color: #BEBEBE;
+	opacity: .5;
+	color: white;
+}
+
+html, body, #picture{
+	position: relative;
+	height: 98.8%;
+	width: 99.4%;
+	top: 0;
+}
+
+body{
+	overflow: hidden;
+}
+
+/* html, img, #streetViewPics {
+	height: 98.8%;
+	width: 99.5%;
+}*/
